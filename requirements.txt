@@ -1,0 +1,13 @@
+streamlit
+numpy
+Pillow
+python-dotenv
+diffusers
+transformers
+torch
+accelerate
+SpeechRecognition
+pydub
+sounddevice
+soundfile
+requests

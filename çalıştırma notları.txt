@@ -1,0 +1,13 @@
+recorder uyarısı verir ise 
+
+python -c "from recorder import Recorder; print('Recorder imported successfully')" bu kodu çalıştır.
+
+> pip install -r requirements.txt çalıştır.
+
+> python -c "from recorder import Recorder; print('Recorder imported successfully')" 
+
+
+PS C:\Users\User\Desktop\project\voiceDraw1> .\venv\Scripts\activate
+(venv) PS C:\Users\User\Desktop\project\voiceDraw1> streamlit run app.py 
+
+venv aktif olunca çalıştır.

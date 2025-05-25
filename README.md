@@ -4,9 +4,6 @@
 
 **VoiceDraw**, kullanıcıların sesli girdilerini metne ve ardından görsel içeriğe dönüştüren yenilikçi bir uygulamadır. Bu rapor, VoiceDraw'ın geliştirme sürecini, yapılan değişiklikleri, karşılaşılan zorlukları ve çözüm stratejilerini belgelemektedir.
 
-**Tarih:** 23 Mart 2025  
-**Versiyon:** 2.0  
-**Durum:** Tamamlandı  
 
 ---
 
